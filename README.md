@@ -1,4 +1,5 @@
 # Coursera Capstone: Helsinki house prices
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Choropleth%20map%20of%20Helsinki%2C%20with%20HSL%2Bprices%2Bterminals%2Brecommendations.PNG?raw=true)
 The capstone project for the IBM Data Science Coursera course.\
 Markus Taskila\
 06.07.2021\
@@ -30,3 +31,25 @@ I hope that this project will give valuable insights to people interested in buy
 
 # Big thank you for being interested! 
 
+
+# PICTURES 
+
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Choropleth%20map%20of%20Helsinki%2C%20with%20prices%2B%20recommendations.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Correlation%20of%20price%20and%20age%20of%20population.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Correlation%20of%20price%20and%20education%20level.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Correlation%20of%20price%20and%20growth%20of%20age%20groupPNG.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Population%20with%20basic%20level%20educatio.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Population%20with%20education%20outliers.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Population%20with%20high%20school%20level%20educatio.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Population%20with%20higher%20uni%20level%20education.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Population%20with%20lower%20uni%20level%20education.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/Population%20with%20vocational%20education%20outliers.PNG?raw=true)
+![cluster 0](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/cluster%200.PNG?raw=true)
+![cluster 1](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/cluster%201.PNG?raw=true)
+![cluster 2](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/cluster%202.PNG?raw=true)
+![cluster 3](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/cluster%203.PNG?raw=true)
+![cluster 4](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/cluster%204.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/cluster%204.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/price%20and%20age%20correlation%20table.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/price%20and%20education%20correlation%20table.PNG?raw=true)
+![map with all stuff](https://github.com/Madfuuu/Coursera_Capstone/blob/main/Colab%20Screenshots/wasted%2010h%20work.PNG?raw=true)
