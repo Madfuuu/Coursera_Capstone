@@ -4,6 +4,8 @@ The capstone project for the IBM Data Science Coursera course.\
 Markus Taskila\
 06.07.2021
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QIIkUCcDntFXwzs32xIfs57kbbeaKcSn?usp=sharing)
+
 ### Description
 This project will look into what are possible factors for the differing housing prices in Helsinki area depending on location. We will use FourSquare data to see if the nearby venues or the amount of venues is the main factor for increased housing prices. We will also look into government provided demographic data on Helsinki area postal code areas, as well as how big of a factor public transportation plays in the pricing. In the end suggestions for interesting housing opportunities are given.\ 
 
